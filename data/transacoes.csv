@@ -1,11 +1,21 @@
-data,descricao,categoria,valor,tipo
-2025-10-01,Salário,receita,5000.00,entrada
-2025-10-02,Aluguel,moradia,1200.00,saida
-2025-10-03,Supermercado,alimentacao,450.00,saida
-2025-10-05,Netflix,lazer,55.90,saida
-2025-10-07,Farmácia,saude,89.00,saida
-2025-10-10,Restaurante,alimentacao,120.00,saida
-2025-10-12,Uber,transporte,45.00,saida
-2025-10-15,Conta de Luz,moradia,180.00,saida
-2025-10-20,Academia,saude,99.00,saida
-2025-10-25,Combustível,transporte,250.00,saida
+data,descricao,categoria,valor,meio_pagamento
+2025-11-01,Supermercado Central,Alimentacao,480.00,Credito
+2025-11-02,Padaria Bom Pao,Alimentacao,45.00,Debito
+2025-11-03,Uber,Transporte,62.00,Credito
+2025-11-04,Restaurante Boa Mesa,Alimentacao,210.00,PIX
+2025-11-05,Streaming Plus,Lazer,55.90,Debito
+2025-11-06,Posto de Gasolina,Transporte,300.00,Debito
+2025-11-07,Cinema,Lazer,78.00,Credito
+2025-11-08,Academia,Saude,99.90,Debito
+2025-11-09,Aluguel,Moradia,1800.00,PIX
+2025-11-10,Condominio,Moradia,450.00,PIX
+2025-11-11,App de Música,Lazer,21.90,Debito
+2025-11-12,Petshop,Pets,120.00,Debito
+2025-11-13,Curso Online,Educacao,89.90,Credito
+2025-11-14,Loja de Roupas,Vestuário,350.00,Credito
+2025-11-15,Internet,Moradia,120.00,Debito
+2025-11-16,Restaurante,Lazer,160.00,PIX
+2025-11-17,Uber,Transporte,55.00,Credito
+2025-11-18,Farmacia,Saude,98.00,Debito
+2025-11-19,Shopping,Compras,420.00,Credito
+2025-11-20,Streaming Filmes,Lazer,39.90,Debito

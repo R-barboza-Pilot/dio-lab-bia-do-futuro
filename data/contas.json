@@ -1,0 +1,22 @@
+[
+  { "id": 1, "tipo": "Conta Corrente", "banco": "Banco X", "saldo_atual": 1800.50 },
+  { "id": 2, "tipo": "Poupança", "banco": "Banco X", "saldo_atual": 4200.00 },
+  { "id": 3, "tipo": "Conta Digital", "banco": "Banco Y", "saldo_atual": 950.00 },
+  { "id": 4, "tipo": "Conta Corrente", "banco": "Banco Z", "saldo_atual": 1200.75 },
+  { "id": 5, "tipo": "Conta Salário", "banco": "Banco X", "saldo_atual": 3100.00 },
+  { "id": 6, "tipo": "Conta Digital", "banco": "Banco Y", "saldo_atual": 400.00 },
+  { "id": 7, "tipo": "Conta Corrente", "banco": "Banco Z", "saldo_atual": 2500.00 },
+  { "id": 8, "tipo": "Poupança", "banco": "Banco Y", "saldo_atual": 1800.00 },
+  { "id": 9, "tipo": "Conta Corrente", "banco": "Banco X", "saldo_atual": 600.00 },
+  { "id": 10, "tipo": "Conta Digital", "banco": "Banco Z", "saldo_atual": 950.00 },
+  { "id": 11, "tipo": "Conta Corrente", "banco": "Banco Y", "saldo_atual": 2100.00 },
+  { "id": 12, "tipo": "Conta Digital", "banco": "Banco X", "saldo_atual": 300.00 },
+  { "id": 13, "tipo": "Conta Corrente", "banco": "Banco Z", "saldo_atual": 1750.00 },
+  { "id": 14, "tipo": "Poupança", "banco": "Banco X", "saldo_atual": 2200.00 },
+  { "id": 15, "tipo": "Conta Corrente", "banco": "Banco Y", "saldo_atual": 980.00 },
+  { "id": 16, "tipo": "Conta Digital", "banco": "Banco Z", "saldo_atual": 560.00 },
+  { "id": 17, "tipo": "Conta Corrente", "banco": "Banco X", "saldo_atual": 1990.00 },
+  { "id": 18, "tipo": "Conta Digital", "banco": "Banco Y", "saldo_atual": 720.00 },
+  { "id": 19, "tipo": "Conta Corrente", "banco": "Banco Z", "saldo_atual": 3300.00 },
+  { "id": 20, "tipo": "Poupança", "banco": "Banco Y", "saldo_atual": 1500.00 }
+]

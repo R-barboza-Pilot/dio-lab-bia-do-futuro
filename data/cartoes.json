@@ -1,0 +1,22 @@
+[
+  { "id": 1, "bandeira": "Visa", "tipo": "Crédito", "limite_total": 8000, "limite_disponivel": 3200 },
+  { "id": 2, "bandeira": "Mastercard", "tipo": "Crédito", "limite_total": 6000, "limite_disponivel": 2100 },
+  { "id": 3, "bandeira": "Visa", "tipo": "Débito", "limite_total": 0, "limite_disponivel": 0 },
+  { "id": 4, "bandeira": "Elo", "tipo": "Crédito", "limite_total": 5000, "limite_disponivel": 1800 },
+  { "id": 5, "bandeira": "Visa", "tipo": "Crédito", "limite_total": 7000, "limite_disponivel": 3500 },
+  { "id": 6, "bandeira": "Mastercard", "tipo": "Crédito", "limite_total": 4000, "limite_disponivel": 900 },
+  { "id": 7, "bandeira": "Elo", "tipo": "Débito", "limite_total": 0, "limite_disponivel": 0 },
+  { "id": 8, "bandeira": "Visa", "tipo": "Crédito", "limite_total": 9000, "limite_disponivel": 6200 },
+  { "id": 9, "bandeira": "Mastercard", "tipo": "Crédito", "limite_total": 3000, "limite_disponivel": 500 },
+  { "id": 10, "bandeira": "Visa", "tipo": "Crédito", "limite_total": 10000, "limite_disponivel": 7800 },
+  { "id": 11, "bandeira": "Elo", "tipo": "Crédito", "limite_total": 4500, "limite_disponivel": 1200 },
+  { "id": 12, "bandeira": "Mastercard", "tipo": "Crédito", "limite_total": 8500, "limite_disponivel": 4000 },
+  { "id": 13, "bandeira": "Visa", "tipo": "Crédito", "limite_total": 6500, "limite_disponivel": 2000 },
+  { "id": 14, "bandeira": "Elo", "tipo": "Crédito", "limite_total": 7200, "limite_disponivel": 3500 },
+  { "id": 15, "bandeira": "Visa", "tipo": "Débito", "limite_total": 0, "limite_disponivel": 0 },
+  { "id": 16, "bandeira": "Mastercard", "tipo": "Crédito", "limite_total": 5000, "limite_disponivel": 1800 },
+  { "id": 17, "bandeira": "Visa", "tipo": "Crédito", "limite_total": 7800, "limite_disponivel": 4100 },
+  { "id": 18, "bandeira": "Elo", "tipo": "Crédito", "limite_total": 6200, "limite_disponivel": 2900 },
+  { "id": 19, "bandeira": "Mastercard", "tipo": "Crédito", "limite_total": 9000, "limite_disponivel": 6000 },
+  { "id": 20, "bandeira": "Visa", "tipo": "Crédito", "limite_total": 11000, "limite_disponivel": 8200 }
+]

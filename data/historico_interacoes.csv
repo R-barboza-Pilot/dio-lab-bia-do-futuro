@@ -1,0 +1,21 @@
+data,hora,intencao,resumo
+2025-11-01,09:10,Resumo mensal,Usuário solicitou visão geral dos gastos
+2025-11-02,20:15,Gasto elevado,Questionou gasto em supermercado
+2025-11-03,08:30,Transporte,Análise de gastos com aplicativos
+2025-11-04,21:10,Alimentacao,Comparação com mês anterior
+2025-11-05,07:50,Assinaturas,Identificação de cobranças recorrentes
+2025-11-06,19:40,Orçamento,Pedido de orientação mensal
+2025-11-07,09:00,Lazer,Questionou gastos em entretenimento
+2025-11-08,18:20,Saude,Consulta sobre despesas médicas
+2025-11-09,08:10,Moradia,Explicação sobre aluguel
+2025-11-10,21:30,Condominio,Detalhamento da cobrança
+2025-11-11,07:40,Assinaturas,Cancelamento sugerido
+2025-11-12,19:15,Pets,Gasto fora do padrão
+2025-11-13,09:05,Educacao,Análise de curso
+2025-11-14,20:50,Vestuário,Comparação mensal
+2025-11-15,08:25,Internet,Revisão de contrato
+2025-11-16,21:00,Lazer,Resumo semanal
+2025-11-17,07:55,Transporte,Comparativo PIX x Crédito
+2025-11-18,19:10,Saude,Resumo mensal
+2025-11-19,08:35,Compras,Gasto impulsivo
+2025-11-20,21:45,Resumo geral,Encerramento do mês

@@ -1,0 +1,22 @@
+{
+  "Alimentacao": ["supermercado", "restaurante", "lanchonete", "padaria"],
+  "Transporte": ["uber", "99", "combustivel", "estacionamento"],
+  "Moradia": ["aluguel", "condominio", "energia", "agua"],
+  "Lazer": ["cinema", "show", "bar", "streaming"],
+  "Saude": ["farmacia", "plano de saude", "consulta"],
+  "Educacao": ["curso", "mensalidade", "livros"],
+  "Assinaturas": ["streaming", "musica", "software"],
+  "Compras": ["loja", "ecommerce", "shopping"],
+  "Vestuário": ["roupas", "calcados"],
+  "Tecnologia": ["celular", "computador", "acessorios"],
+  "Servicos": ["manutencao", "limpeza"],
+  "Impostos": ["iptu", "ipva"],
+  "Seguros": ["seguro auto", "seguro vida"],
+  "Doacoes": ["doacao"],
+  "Pets": ["petshop", "veterinario"],
+  "Viagem": ["hotel", "passagem"],
+  "Bancos": ["tarifa", "juros"],
+  "Transferencias": ["pix", "ted"],
+  "Investimentos": ["aplicacao"],
+  "Outros": ["diversos"]
+}

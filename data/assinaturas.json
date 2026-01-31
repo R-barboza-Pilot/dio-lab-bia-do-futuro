@@ -1,0 +1,22 @@
+[
+  { "servico": "Streaming Plus", "valor": 55.90, "frequencia": "Mensal" },
+  { "servico": "App de Música", "valor": 21.90, "frequencia": "Mensal" },
+  { "servico": "Armazenamento Cloud", "valor": 19.90, "frequencia": "Mensal" },
+  { "servico": "Academia", "valor": 99.90, "frequencia": "Mensal" },
+  { "servico": "Revista Digital", "valor": 14.90, "frequencia": "Mensal" },
+  { "servico": "Streaming Filmes", "valor": 39.90, "frequencia": "Mensal" },
+  { "servico": "App Meditação", "valor": 29.90, "frequencia": "Mensal" },
+  { "servico": "Antivirus", "valor": 24.90, "frequencia": "Anual" },
+  { "servico": "Cloud Fotos", "valor": 12.90, "frequencia": "Mensal" },
+  { "servico": "Streaming Esportes", "valor": 59.90, "frequencia": "Mensal" },
+  { "servico": "Curso Online", "valor": 89.90, "frequencia": "Mensal" },
+  { "servico": "Editor de Imagens", "valor": 34.90, "frequencia": "Mensal" },
+  { "servico": "Backup Online", "valor": 17.90, "frequencia": "Mensal" },
+  { "servico": "App Finanças", "valor": 9.90, "frequencia": "Mensal" },
+  { "servico": "Streaming Infantil", "valor": 27.90, "frequencia": "Mensal" },
+  { "servico": "Jornal Digital", "valor": 19.90, "frequencia": "Mensal" },
+  { "servico": "Plataforma Cursos", "valor": 79.90, "frequencia": "Mensal" },
+  { "servico": "VPN", "valor": 15.90, "frequencia": "Mensal" },
+  { "servico": "Software Escritório", "valor": 49.90, "frequencia": "Mensal" },
+  { "servico": "App Audiolivros", "valor": 29.90, "frequencia": "Mensal" }
+]
