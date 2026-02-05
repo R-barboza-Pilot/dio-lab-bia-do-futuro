@@ -1,44 +1,96 @@
-# Pitch (3 minutos)
-
-> [!TIP]
-> Você pode usar alguns slides pra apoiar no seu Pitch e mostrar sua solução na prática.
- 
-## Roteiro Sugerido
-
-### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
-
-[Sua descrição aqui]
-
-### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
-
-[Sua descrição aqui]
-
-### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
-
-[Descreva o que será mostrado]
-
-### 4. Diferencial e Impacto (30 seg)
-> Por que essa solução é inovadora e qual é o impacto dela na sociedade?
-
-[Sua descrição aqui]
+# 🎤 Pitch - Alice, Agente de Organização Financeira (3 minutos)
 
 ---
 
-## Checklist do Pitch
+## 🧭 Roteiro Sugerido
 
-- [ ] Duração máxima de 3 minutos
-- [ ] Problema claramente definido
-- [ ] Solução demonstrada na prática
-- [ ] Diferencial explicado
-- [ ] Áudio e vídeo com boa qualidade
+### 🧩 1. O Problema (30 seg)
+
+Muitas pessoas têm dificuldade em **organizar sua vida financeira no dia a dia**.
+
+Mesmo tendo dados como:
+- 💳 gastos no cartão  
+- 🧾 extratos bancários  
+- 🔁 assinaturas recorrentes  
+
+essas informações ficam **espalhadas, confusas e difíceis de interpretar**.
+
+O resultado é:
+- ❌ falta de controle financeiro  
+- ❌ decisões ruins por falta de clareza  
+- ❌ ansiedade, principalmente para quem não tem tempo ou conhecimento técnico em finanças
 
 ---
 
-## Link do Vídeo
+### 💡 2. A Solução (60 seg)
 
-> Cole aqui o link do seu pitch (YouTube, Loom, Google Drive, etc.)
+A solução é a **Alice**, um **agente inteligente de organização financeira pessoal**.
 
-[Link do vídeo]
+Ela centraliza dados financeiros estruturados como:
+- 📊 transações
+- 👤 perfil do cliente
+- 🏦 contas bancárias
+- 💳 cartões
+- 🗂️ histórico de atendimentos
+
+Tudo isso pode ser acessado por **conversa em linguagem natural**, permitindo que o usuário entenda melhor sua situação financeira sem precisar analisar planilhas.
+
+A Alice:
+- responde gastos por categoria  
+- ajuda a organizar o orçamento  
+- esclarece dúvidas financeiras  
+- apoia a tomada de decisão  
+
+Sempre respeitando o **perfil do cliente** e **sem inventar informações**.
+
+A interface é um chat simples, desenvolvido com **Streamlit** e um **modelo de linguagem executado localmente via Ollama**.
+
+---
+
+### 🖥️ 3. Demonstração (60 seg)
+
+Na demonstração, será apresentado:
+
+- 💬 a interface do chat da Alice em funcionamento  
+- 🍔 uma pergunta sobre gastos, como:  
+  > *“Quanto gastei com alimentação?”*  
+- 📅 uma pergunta sobre planejamento financeiro  
+- 🚫 uma pergunta fora do escopo, mostrando que o agente responde com **segurança e responsabilidade**
+
+Isso demonstra tanto a **utilidade prática** quanto a **confiabilidade do agente**.
+
+---
+
+### 🚀 4. Diferencial e Impacto (30 seg)
+
+O grande diferencial da Alice é combinar:
+
+- 🤖 **IA generativa**
+- 📁 **dados financeiros reais e estruturados**
+- 🔐 **segurança, coerência e transparência**
+
+Ela não substitui um consultor financeiro, mas **empodera o usuário** a entender melhor sua própria realidade financeira.
+
+O impacto social está em:
+- 📚 promover educação financeira  
+- 🤝 aumentar autonomia  
+- 💚 ajudar pessoas a reduzir endividamento e melhorar sua qualidade de vida  
+
+---
+
+## ✅ Checklist do Pitch
+
+- [x] ⏱️ Duração máxima de 3 minutos  
+- [x] 🎯 Problema claramente definido  
+- [x] 🧪 Solução demonstrada na prática  
+- [x] 🌟 Diferencial explicado  
+- [x] 🎥 Áudio e vídeo com boa qualidade  
+
+---
+
+## 🔗 Link do Vídeo
+
+👉 *[https://www.youtube.com/watch?v=mxSCaSm_s]*
+
+
+
